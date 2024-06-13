@@ -1,6 +1,8 @@
 let element1 = (
    <div title="Outer div">
       <h1>Hello World!</h1>
+      <hr />
+      <p>from react🤖</p>
    </div>
 );
 
